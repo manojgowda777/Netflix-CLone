@@ -46,7 +46,7 @@ This is a fully responsive front-end clone of the Netflix landing page, built us
 
 Feel free to reach out if you have feedback or want to collaborate!  
 **Email:** manojrgowda.1213@gmail.com 
-**GitHub:** [@yourgithubusername](https://github.com/yourgithubusername)
+**GitHub:** [@yourgithubusername](https://github.com/manojgowda777)
 
 ---
 
