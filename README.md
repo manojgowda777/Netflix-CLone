@@ -28,7 +28,7 @@ This is a fully responsive front-end clone of the Netflix landing page, built us
 
 ## 💻 Live Demo
 
-[🔗 Click here to view the live project](https://yourgithubusername.github.io/netflix-clone/)  
+[🔗 Click here to view the live project](https://github.com/manojgowda777/Netflix-CLone)  
 
 
 ---
